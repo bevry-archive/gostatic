@@ -37,7 +37,7 @@ Currently alphabetically sorted, but will move to a listing that is sorted by th
 - [Jekyll](http://jekyllrb.com/) - Free Open-Source Software
 - [Middleman](http://middlemanapp.com/) - Free Open-Source Software
 - [Nanoc](http://nanoc.ws/) - Free Open-Source Software
-- [Statatmic](http://www.statamic.com/) - Paid Closed-Source Software
+- [Statamic](http://www.statamic.com/) - Paid Closed-Source Software
 
 
 
