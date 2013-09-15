@@ -38,6 +38,7 @@ Currently alphabetically sorted, but will move to a listing that is sorted by th
 - [Middleman](http://middlemanapp.com/) - Free Open-Source Software
 - [Nanoc](http://nanoc.ws/) - Free Open-Source Software
 - [Statamic](http://www.statamic.com/) - Paid Closed-Source Software
+- [Wintersmith](http://wintersmith.io/) - Free Open-Source Software
 
 
 
