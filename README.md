@@ -27,7 +27,7 @@ Static means generating content once (or rather on every change), rather than ev
 
 ### What implementations already exist?
 
-[Check out the definitive listing at StaticSiteGenerators.net](http://staticsitengerators.net)
+[Check out the definitive listing at StaticSiteGenerators.net](http://staticsitegenerators.net)
 
 
 
