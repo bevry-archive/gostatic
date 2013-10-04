@@ -27,19 +27,7 @@ Static means generating content once (or rather on every change), rather than ev
 
 ### What implementations already exist?
 
-Listing of all of static site generators, and static extensions for dynamic sites.
-
-Currently alphabetically sorted, but will move to a listing that is sorted by their live github stars once we get a website up.
-
-- [Blacksmith](http://github.com/flatiron/blacksmith) - Free Open-Source Software
-- [DocPad](http://docpad.org) - Free Open-Source Software
-- [Kirby](http://getkirby.com/) - Paid Closed-Source Software
-- [Jekyll](http://jekyllrb.com/) - Free Open-Source Software
-- [Middleman](http://middlemanapp.com/) - Free Open-Source Software
-- [Nanoc](http://nanoc.ws/) - Free Open-Source Software
-- [Statamic](http://www.statamic.com/) - Paid Closed-Source Software
-- [Wintersmith](http://wintersmith.io/) - Free Open-Source Software
-
+[Check out the definitive listing at StaticSiteGenerators.net](http://staticsitengerators.net)
 
 
 
