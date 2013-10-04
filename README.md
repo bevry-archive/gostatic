@@ -12,8 +12,8 @@ Static means generating content once (or rather on every change), rather than ev
 
 ### What are the benefits of going static?
 
-- Fast
-- Secure
+- Faster
+- Securer
 - Often file based (not all the time however)
 - Often abstract friendly (not all the time however)
 
