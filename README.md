@@ -24,6 +24,23 @@ Static means generating content once (or rather on every change), rather than ev
 - Static Site Generators
 - Hybrid Static Site Generators
 
+### Features
+
+Features you expect from common Content-Management-Systems
+
+- Clean URLs and Permalinks 
+- HTML-metatags
+- RSS are availible as extra view 
+- third party widgets like maps
+
+#### Missing
+
+- comments, but can be substituted with JavaScript (e.g. disqus.com)
+- search function, but can be substituted external search engines  
+- widgets like current comments, tweets, quotes of the day. Theses features can be added with asynchronus JavaScript
+- categories or tags
+- webbased content editing
+- editorial workflow
 
 ### What implementations already exist?
 
