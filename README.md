@@ -15,6 +15,8 @@ Static means generating content once (or rather on every change), rather than ev
 - Faster
 - Securer
 - Often file based (not all the time however)
+  - no database to maintain
+  - edit sourcefiles with servertools (grep etc)
 - Often abstract friendly (not all the time however)
 
 
