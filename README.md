@@ -16,7 +16,7 @@ Static means generating content once (or rather on every change), rather than ev
 - Securer
 - Often file based (not all the time however)
   - no database to maintain
-  - edit sourcefiles with servertools (grep etc)
+  - edit sourcefiles directly and with servertools (grep etc)
 - Often abstract friendly (not all the time however)
 
 
@@ -32,17 +32,22 @@ Features you expect from common Content-Management-Systems
 
 - Clean URLs and Permalinks 
 - HTML-metatags
-- RSS are availible as extra view 
+- RSS are available as extra view 
 - third party widgets like maps
+
+#### Replaceable
+
+Theses features can be replaced with clientside JavaScript
+
+- comments (e.g. disqus.com)
+- search function, can be substituted external search engines (solr, Google Custom Search)  
+- widgets, like current comments, tweets, quotes of the day.
 
 #### Missing
 
-- comments, but can be substituted with JavaScript (e.g. disqus.com)
-- search function, but can be substituted external search engines  
-- widgets like current comments, tweets, quotes of the day. Theses features can be added with asynchronus JavaScript
 - categories or tags
 - webbased content editing
-- editorial workflow
+- editorial work-flow
 
 ### What implementations already exist?
 
