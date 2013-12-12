@@ -15,6 +15,8 @@ Static means generating content once (or rather on every change), rather than ev
 - Faster
 - Securer
 - Often file based (not all the time however)
+  - no database to maintain
+  - edit sourcefiles directly and with servertools (grep etc)
 - Often abstract friendly (not all the time however)
 
 
@@ -24,6 +26,28 @@ Static means generating content once (or rather on every change), rather than ev
 - Static Site Generators
 - Hybrid Static Site Generators
 
+### Features
+
+Features you expect from common Content-Management-Systems
+
+- Clean URLs and Permalinks 
+- HTML-metatags
+- RSS are available as extra view 
+- third party widgets like maps
+
+#### Replaceable
+
+Theses features can be replaced with clientside JavaScript
+
+- comments (e.g. disqus.com)
+- search function, can be substituted external search engines (solr, Google Custom Search)  
+- widgets, like current comments, tweets, quotes of the day.
+
+#### Missing
+
+- categories or tags
+- webbased content editing
+- editorial work-flow
 
 ### What implementations already exist?
 
