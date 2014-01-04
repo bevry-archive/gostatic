@@ -12,15 +12,28 @@ Static means generating content once (or rather on every change), rather than ev
 
 ### What are the benefits of going static?
 
-- Faster
+#### Faster
 
-So lets list out the benefits/constraints we want to convey and illustrate in the website. The readme is a good start. I sometimes sell node/docpad with a angle that the speed/efficiency at scale can be at times 8 times faster and therefore 8 times cheaper, less server hardware (electricity) used therefore it's a cheaper and green option to a traditional PHP architecture. So basically, it's cheaper, faster and green. (Why's it faster? It's newer tech compared to PHP, simple answer back to a non-techie. Nothing loads in a browser faster than a plain html file.). These are simple enough and desired concepts for he audience we're targeting (which is mostly non-techies right?). Benchmarks and benchmarks to scale would be nice to illustrate on the site to plainly visual he cheaper, faster, green keywords.
+The speed and efficiency at scale can be at times 8 times faster and therefore 8 times cheaper.
+Nothing loads in a browser faster than a plain html file.
 
-- Securer
-- Often file based (not all the time however)
+You need less server hardware and electricity, so it's a __cheaper__ and __green__ option to a traditional PHP architecture.
+
+<!--
+##### Benchmarks
+-->
+
+#### Securer
+
+#### file based
+
+Often file based (not all the time however)
   - no database to maintain
   - edit sourcefiles directly and with servertools (grep etc)
-- Often abstract friendly (not all the time however)
+
+#### abstract friendly
+
+Often abstract friendly (not all the time however)
 
 
 ### How is static implemented?
