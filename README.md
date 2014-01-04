@@ -14,10 +14,14 @@ Static means generating content once (or rather on every change), rather than ev
 
 #### Faster
 
-The speed and efficiency at scale can be at times 8 times faster and therefore 8 times cheaper.
+The speed and efficiency at scale can be up to 8 times faster and therefore 8 times cheaper.
 Nothing loads in a browser faster than a plain html file.
+Classic webapplications or CMS (like Wordpress, Joomla) generate the html every time they receive a request from a visitor. Once that happens they have to query the database and run through many code to generate the html for the browser. Depending on the used software, hardware and amount of requests this generating needs time which can amount to seconds.
+If there is massive increase in traffic and sites overload, this will cause them to slow down or even become unavailable temporarily (called [slashdot effect](https://en.wikipedia.org/wiki/Slashdot_effect)). Most sites use [web caching](https://en.wikipedia.org/wiki/Web_cache) to avoid this.
 
-You need less server hardware and electricity, so it's a __cheaper__ and __green__ option to a traditional PHP architecture.
+Exactly therefore Static Site Generators are Web caching inherently.
+
+As a result less server hardware and electricity is needed, so it's a __cheaper__ and __greener__ option compared to a traditional PHP architecture.
 
 <!--
 ##### Benchmarks
