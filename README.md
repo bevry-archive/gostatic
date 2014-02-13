@@ -12,12 +12,32 @@ Static means generating content once (or rather on every change), rather than ev
 
 ### What are the benefits of going static?
 
-- Faster
-- Securer
-- Often file based (not all the time however)
+#### Faster
+
+The speed and efficiency at scale can be up to 8 times faster and therefore 8 times cheaper.
+Nothing loads in a browser faster than a plain html file.
+Classic webapplications or CMS (like Wordpress, Joomla) generate the html every time they receive a request from a visitor. Once that happens they have to query the database and run through many code to generate the html for the browser. Depending on the used software, hardware and amount of requests this generating needs time which can amount to seconds.
+If there is massive increase in traffic and sites overload, this will cause them to slow down or even become unavailable temporarily (called [slashdot effect](https://en.wikipedia.org/wiki/Slashdot_effect)). Most sites use [web caching](https://en.wikipedia.org/wiki/Web_cache) to avoid this.
+
+Exactly therefore Static Site Generators are Web caching inherently.
+
+As a result less server hardware and electricity is needed, so it's a __cheaper__ and __greener__ option compared to a traditional PHP architecture.
+
+<!--
+##### Benchmarks
+-->
+
+#### Securer
+
+#### file based
+
+Often file based (not all the time however)
   - no database to maintain
   - edit sourcefiles directly and with servertools (grep etc)
-- Often abstract friendly (not all the time however)
+
+#### abstract friendly
+
+Often abstract friendly (not all the time however)
 
 
 ### How is static implemented?
